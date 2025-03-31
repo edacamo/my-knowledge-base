@@ -55,3 +55,5 @@ Si tienes un proyecto local y deseas subirlo a un nuevo repositorio en GitHub, s
 ---
 
 > Estos comandos te permitirán inicializar un repositorio Git local, vincularlo a un repositorio remoto en GitHub, y hacer el primer push de tu proyecto. Asegúrate de que la rama principal sea `main`, ya que es la convención más reciente en GitHub.
+
+[Volver a la página principal](index.md)
