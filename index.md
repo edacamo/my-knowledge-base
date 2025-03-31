@@ -9,6 +9,7 @@ Este es un espacio dedicado a organizar y compartir conocimientos sobre [tema de
 
 ## Temas cubiertos
 
+- [Comandos para subir un nuevo proyecto a un repositorio en GitHub](git-commands.md)
 - **Introducción a [tema]**
   - Explicación básica sobre el tema.
 - **Tutoriales paso a paso**
